@@ -3,7 +3,7 @@
 ## Portfolio
 Contact Info: [fill in]
 ## About Me 
-[Fill in Madlibs here]
+
 
 ## Education 
 [Fill in Education here]
@@ -12,7 +12,7 @@ Contact Info: [fill in]
 
 ### Project 1 Title
  - Project 1 Summary
- - [insert project 1 screenshot here]
+![Business Dashboard](Images/Screenshots/Business Dashboard.png)
  - Project 1 Report
 ***
 ### Project 2 Title
