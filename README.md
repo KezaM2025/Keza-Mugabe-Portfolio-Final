@@ -13,7 +13,7 @@ Hello! I am an experienced Biohealth specialist and Health Sciences professional
  With skills in communication, data analysis, patient support, and critical thinking, I am able to analyze health data and achieve improved health outcomes. I am adept at using Microsoft excel, Google workspace, and PyCharm. 
 
 My well-rounded skill set, commitment to excellence in healthcare, and passion for improving community health make me a valuable asset. In my spare time, I like to bake and spend time with my family and friends.  
-You can find me on Twitter at Mugabe_K. 
+You can find me on Twitter at [Mugabe_K](https://x.com/home). 
 
 
 ## Education 
