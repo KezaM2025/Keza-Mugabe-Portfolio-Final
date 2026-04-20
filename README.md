@@ -7,7 +7,9 @@
 
 ***
 
-Contact Info: [fill in]
+Contact Info: 
+Email: mugabekezaa@gmail.com
+Phone: +16678324538
 
 Hello! I am an experienced Biohealth specialist and Health Sciences professional with over 6 years of proven expertise in Biohealth and Public Health and Patient Care.  
 
