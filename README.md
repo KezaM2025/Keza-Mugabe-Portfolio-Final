@@ -7,7 +7,7 @@
 
 ***
 
-Contact Info: 
+## Contact Info: 
 Email: mugabekezaa@gmail.com
 Phone: +16678324538
 
