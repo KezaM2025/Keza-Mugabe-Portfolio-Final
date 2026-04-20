@@ -1,6 +1,12 @@
-# CS105/6/7/8 Portfolio
-## Keza Mgabe
-## Portfolio
+
+# Keza Mgabe
+
+### Portfolio
+
+<img src="Images/doccc mcstuffins pfp.jpg" alt="" width="">
+
+***
+
 Contact Info: [fill in]
 Hello! I am an experienced Biohealth specialist and Health Sciences professional with over 6 years of proven expertise in Biohealth and Public Health and Patient Care.  
 
