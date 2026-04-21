@@ -1,4 +1,3 @@
-![banner](Images/banner cs105.jpg)
 
 # Keza Mugabe
 
